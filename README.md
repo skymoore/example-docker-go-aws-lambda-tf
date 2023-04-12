@@ -1,0 +1,1 @@
+See the makefile, emulation builds on M1 mac is unstable for some reason, often fails wtih seg fault, just run it till it works
